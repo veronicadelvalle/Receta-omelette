@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /*Primary*/
+  --nutmeg: hsl(14, 45%, 36%);
+  --dark-raspberry: hsl(332, 51%, 32%);
+  /*Neutral*/
+  --white: hsl(0, 0%, 100%);
+  --rose-white: hsl(330, 100%, 98%);
+  --eggshell: hsl(30, 54%, 90%);
+  --light-grey: hsl(30, 18%, 87%);
+  --wenge-brown: hsl(30, 10%, 34%);
+  --dark-charcoal: hsl(24, 5%, 18%); 
+  --font-outfit: 'Outfit', sans-serif;
+  --font-young-serif: 'Young Serif', serif;
+  --border-r: 1.5rem;
+}
+
+body {
+  background-color: var(--eggshell);
+  font-family: var(--font-outfit);
+  color: var(--wenge-brown);
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+h1, h2 {
+  font-family:var(--font-young-serif);
+  color: var(--nutmeg);
+  text-transform: capitalize;
+  font-weight: 400;
+}
+
+h1 {
+  color: initial;
+}
+
+img {
+  width: 100%;
+}
+
+hr {
+  opacity: .3;
+  /* margin: 3rem 0; */
+}
