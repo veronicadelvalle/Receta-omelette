@@ -6,6 +6,8 @@
 
 Bienvenidos a nuestro proyecto colaborativo donde, como programadores, estamos aprendiendo y practicando HTML y CSS mediante la creación de un recetario interactivo. Este proyecto no solo nos permite mejorar nuestras habilidades en desarrollo web, sino que también nos brinda la oportunidad de colaborar y compartir conocimientos.
 
+Este proyecto está inspirado en un desafío de [Frontend Mentor](https://www.frontendmentor.io/) y se utiliza con fines didácticos.
+
 ## 🚀 Tecnologías Utilizadas
 
 - **HTML**: Utilizado para estructurar y organizar el contenido de nuestras páginas de recetas.
@@ -14,21 +16,15 @@ Bienvenidos a nuestro proyecto colaborativo donde, como programadores, estamos a
 
 ## 👩‍💻 Participantes
 
-- **[Verónica Del Valle (Profesora)](https://github.com/veronicadelvalle)** - [LinkedIn](https://www.linkedin.com/in/usuario1/)
+- **[Verónica Del Valle](https://github.com/veronicadelvalle)** - [LinkedIn](https://www.linkedin.com/in/usuario1/)
 - **[Participante 2](https://github.com/usuario2)** - [LinkedIn](https://www.linkedin.com/in/usuario2/)
 - **[Participante 3](https://github.com/usuario3)** - [LinkedIn](https://www.linkedin.com/in/usuario3/)
 - **[Participante 4](https://github.com/usuario4)** - [LinkedIn](https://www.linkedin.com/in/usuario4/)
 
-## 🎨 Estructura del Proyecto
+## 🥳 Agradecimientos
 
-### 📂 Estructura de Archivos
+Queremos agradecer a todos los participantes y colaboradores por su dedicación y esfuerzo en este proyecto. Cada uno de ustedes ha contribuido a la creación de un recurso increíble que no solo es útil, sino también inspirador para otros desarrolladores en su camino de aprendizaje.
 
-```plaintext
-/
-├── assets/
-│   └── images/
-│       └── image-omelette.jpeg
-├── styles/
-│   └── styles.css
-├── index.html
-└── README.md
+---
+
+¡Gracias por visitar nuestro Recetario Colaborativo! Esperamos que disfrutes de las recetas y encuentres útil nuestro proyecto para mejorar tus habilidades en HTML y CSS. ¡Feliz codificación y buen provecho! 🍽️
