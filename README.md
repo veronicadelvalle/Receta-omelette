@@ -14,7 +14,7 @@ Bienvenidos a nuestro proyecto colaborativo donde, como programadores, estamos a
 
 ## 👩‍💻 Participantes
 
-- **[Verónica Del Valle (Profesora)]([https://github.com/usuario1](https://github.com/veronicadelvalle))** - [LinkedIn](https://www.linkedin.com/in/usuario1/)
+- **[Verónica Del Valle (Profesora)](https://github.com/veronicadelvalle)** - [LinkedIn](https://www.linkedin.com/in/usuario1/)
 - **[Participante 2](https://github.com/usuario2)** - [LinkedIn](https://www.linkedin.com/in/usuario2/)
 - **[Participante 3](https://github.com/usuario3)** - [LinkedIn](https://www.linkedin.com/in/usuario3/)
 - **[Participante 4](https://github.com/usuario4)** - [LinkedIn](https://www.linkedin.com/in/usuario4/)
