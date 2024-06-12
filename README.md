@@ -21,7 +21,7 @@ Este proyecto está inspirado en un desafío de [Frontend Mentor](https://www.fr
 - **[GITHUB: Alberto Joshua Sánchez Galicia](https://github.com/JoshuaGalicia)** - [LinkedIn](https://www.linkedin.com/in/joshua-galicia-51a1b7212/)
 - **[GITHUB: Mariela Rivera](https://github.com/marie2025)** - [LinkedIn](github.com/marie2025)
 
-## Proyecto terminado ![LINK](https://recetario-clase-iniciante.netlify.app/)
+Proyecto terminado [LINK](https://recetario-clase-iniciante.netlify.app/)
 
 ## 🥳 Agradecimientos
 
