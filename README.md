@@ -19,7 +19,7 @@ Este proyecto está inspirado en un desafío de [Frontend Mentor](https://www.fr
 - **[Verónica Del Valle (Profesora)](https://github.com/veronicadelvalle)** - [LinkedIn](https://www.linkedin.com/in/usuario1/)
 - **[José Luis Tasilla Huaripata](https://github.com/Jota0305)** - [LinkedIn](www.linkedin.com/in/joseTH)
 - **[Alberto Joshua Sánchez Galicia](https://github.com/JoshuaGalicia)** - [LinkedIn](https://www.linkedin.com/in/joshua-galicia-51a1b7212/)
-- **[Participante 4](https://github.com/usuario4)** - [LinkedIn](https://www.linkedin.com/in/usuario4/)
+- **[Mariela Rivera](github.com/marie2025)** - [LinkedIn](github.com/marie2025)
 
 ## 🥳 Agradecimientos
 
