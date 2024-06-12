@@ -1,3 +1,7 @@
+/****************************
+  Estilos globales 
+****************************/
+
 @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap');
 
@@ -51,3 +55,50 @@ hr {
   opacity: .3;
   /* margin: 3rem 0; */
 }
+
+/************************
+  CSS general
+**************************/
+
+.container{
+    width: 750px;           /*QUITARLE EL ANCHO AL CONTENEDOR*/
+    margin: 90px auto;         /*CENTRAR AL CENTRO DEL ESPACIO QUE QUEDA*/
+    background-color: var(--white);        
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px var(--light-grey);
+}
+
+.preparation{
+    background-color: var(--rose-white);
+    margin: 30px 0;
+    padding: 30px 25px;
+    border-radius: 20px;
+}
+
+.preparation h3{
+    color: var(--dark-raspberry);
+}
+
+.list {
+    margin-left: 25px;
+    margin-top: 25px; 
+}
+
+.list li {
+    padding: 4px;
+    color: var(--dark-raspberry);
+}
+
+.list-brown li {
+    color: var(--nutmeg);
+    font-weight: 900;
+}
+
+.list li p {
+    color: var(--wenge-brown);
+    padding-left: 10px;
+    font-weight: 400;
+}
+
+/* Falta los estilos de la tabla */
