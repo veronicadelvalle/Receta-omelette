@@ -10,9 +10,11 @@ Este proyecto está inspirado en un desafío de [Frontend Mentor](https://www.fr
 
 ## 🚀 Tecnologías Utilizadas
 
-- **HTML**: Utilizado para estructurar y organizar el contenido de nuestras páginas de recetas.
-- **CSS**: Utilizado para dar estilo y diseño atractivo a nuestras páginas.
-- **GitHub**: Utilizado para la colaboración, control de versiones y gestión del proyecto.
+- HTML
+- CSS
+
+![html-5--v1](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/4d1c653a-1d4b-4f07-9479-d4e03fbffd86) 
+![css3](https://github.com/veronicadelvalle/carrusel-slider/assets/139937653/687eab3e-adf9-4916-a6e3-916a73059d9b)
 
 ## 👩‍💻 Participantes
 
