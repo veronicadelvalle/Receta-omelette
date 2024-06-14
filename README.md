@@ -20,7 +20,7 @@ Este proyecto está inspirado en un desafío de [Frontend Mentor](https://www.fr
 - **[GITHUB: José Luis Tasilla Huaripata](https://github.com/Jota0305)** - [LinkedIn](www.linkedin.com/in/joseTH)
 - **[GITHUB: Alberto Joshua Sánchez Galicia](https://github.com/JoshuaGalicia)** - [LinkedIn](https://www.linkedin.com/in/joshua-galicia-51a1b7212/)
 - **[GITHUB: Mariela Rivera](https://github.com/marie2025)** - [LinkedIn](github.com/marie2025)
-- - **[GITHUB: Fabian Gutierrez](https://github.com/FabianGuty)** - [LinkedIn](https://www.linkedin.com/in/fabian-gutierrez-213a94313/)
+- **[GITHUB: Fabian Gutierrez](https://github.com/FabianGuty)** - [LinkedIn](https://www.linkedin.com/in/fabian-gutierrez-213a94313/)
 
 Proyecto terminado [LINK](https://recetario-clase-iniciante.netlify.app/)
 
