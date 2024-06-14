@@ -22,8 +22,11 @@ Este proyecto está inspirado en un desafío de [Frontend Mentor](https://www.fr
 - **[GITHUB: Mariela Rivera](https://github.com/marie2025)** - [LinkedIn](github.com/marie2025)
 - **[GITHUB: Fabian Gutierrez](https://github.com/FabianGuty)** - [LinkedIn](https://www.linkedin.com/in/fabian-gutierrez-213a94313/)
 
-## 🏆🥇 Proyecto terminado 
-[LINK: Recetario Clase Iniciante](https://recetario-clase-iniciante.netlify.app/)
+
+
+## 🏆🥇 Proyecto terminado  [LINK: Recetario Clase Iniciante](https://recetario-clase-iniciante.netlify.app/)
+
+
 
 ## 🥳 Agradecimientos
 
